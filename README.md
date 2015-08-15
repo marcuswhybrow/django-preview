@@ -2,6 +2,8 @@
 Django Preview
 ==============
 
+**PROJECT IS INCOMPLETE AND INACTIVE**
+
 Django preview allows you to mark models as preview-able. This allows a 
 modified version of an object in the database to be displayed via a special 
 preview URL without writing those changes back to the database.
